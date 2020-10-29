@@ -1,6 +1,4 @@
 %Project 1 - Water Resources
-%Ahmad Raza
-%CS 109, Fall 2020, Koehler
 
 %%Step 1
 types = ["rainfall", "lakes","aquifers","reservoirs","rivers"]; 
